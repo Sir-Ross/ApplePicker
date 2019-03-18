@@ -65,9 +65,11 @@
     <Compile Include="Assets\Scripts\BasketMovement.cs" />
     <Compile Include="Assets\Scripts\Main.cs" />
     <Compile Include="Assets\Scripts\QuitGame.cs" />
-    <Compile Include="Assets\Scripts\Scene Manager.cs" />
+    <Compile Include="Assets\Scripts\Scores.cs" />
+    <Compile Include="Assets\Scripts\Settings.cs" />
     <Compile Include="Assets\Scripts\TreeMovement.cs" />
     <Compile Include="Assets\Scripts\Variables.cs" />
+    <Compile Include="Assets\Scripts\Volume.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/leonar3/Documents/Unity Projects/ApplePicker/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
